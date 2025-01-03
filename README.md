@@ -2,7 +2,9 @@
 
 This repository contains an Excel-based dashboard designed to analyze bike sales data. The dashboard provides insights into customer demographics, purchasing behaviors, and commute patterns, making it a valuable tool for business decision-making and data visualization.
 
-![Bike Sales Dashboard](https://github.com/ontu001/bike-sales-dashboard-excel/blob/main/dashboard.JPG)
+## Demo Video
+
+[![Bike Sales Dashboard Demo](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/ontu001/bike-sales-dashboard-excel/blob/main/Dashboard.mp4)
 
 ## Key Features
 
@@ -50,4 +52,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For any questions or feedback, please reach out via GitHub Issues or connect with me on [LinkedIn](#).
-

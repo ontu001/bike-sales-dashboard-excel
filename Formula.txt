@@ -1,0 +1,4 @@
+
+Formulas
+1. IF(L2>54, "Old",IF(L2>= 31,"Middle Aged",IF(L2<31,"Adolescent","Invalid")))
+
